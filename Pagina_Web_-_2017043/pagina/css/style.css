@@ -1,0 +1,57 @@
+
+body {
+	margin: 0;
+	background-color: #90909031;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: rgb(3, 9, 90);
+	}
+
+#container {
+	margin: 0 auto;
+	width: 1000px;
+	background-color: #90909031;
+	padding: 50px;
+	}
+	
+#header { 
+	margin-bottom: 50px; 
+	border: 1px solid #fff; /* I.E. Fix */ 
+	}
+#header h1 {
+	color: #3521e7;
+	font-size: 30px;
+	font-family: Impact, sans-serif;
+	font-weight: normal;
+	float: left;
+	width: 390px;
+	margin: 0;
+}
+#block {
+	background-color: rgb(93, 113, 224);
+	color: #fff;
+	padding: 10px;
+	clear: both;
+}
+
+#right { 
+	float: left; 
+	width: 429px; 
+	padding: 10px; 
+	border-left: 1px 
+	solid #bfbfbf;
+}
+
+.clear {
+	clear: both;
+} 
+
+.card__button{
+    text-align: center;
+}
+.enlace{
+    background: rgb(107, 154, 216);
+    padding: 8px 20px;
+    color: white;
+    text-decoration: none;
+}
